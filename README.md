@@ -6,9 +6,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/fazzz1924/Leetcodes/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/fazzz1924/Leetcodes/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/fazzz1924/Leetcodes/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/fazzz1924/Leetcodes/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
