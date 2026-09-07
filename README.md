@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/fazzz1924/Leetcodes/tree/master/0009-palindrome-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/fazzz1924/Leetcodes/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/fazzz1924/Leetcodes/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
